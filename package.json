@@ -19,7 +19,9 @@
     "react-slick": "^0.30.2",
     "react-toastify": "^10.0.6",
     "recoil": "^0.7.7",
-    "slick-carousel": "^1.8.1"
+    "slick-carousel": "^1.8.1",
+    "vercel": "^39.2.4",
+    "vite-plugin-rewrite-all": "^1.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
