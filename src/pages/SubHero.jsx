@@ -10,7 +10,7 @@ const  SubHero = () => {
             <a href="/">
               <div className="collection-banner relative group">
                 <img
-                  src="src/assets/img/sub-banner1.5d5f9c6f.jpg"
+                  src="public/image/sub-banner1.5d5f9c6f.jpg"
                   alt="Men's Collection"
                   className="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-105"
                 />
@@ -29,7 +29,7 @@ const  SubHero = () => {
             <a href="/left-sidebar/collection">
               <div className="collection-banner relative group">
                 <img
-                  src="src/assets/img/sub-banner2.3b2448f3.jpg"
+                  src="public/image/sub-banner2.3b2448f3.jpg"
                   alt="Women's Collection"
                   className="w-full h-full object-cover rounded-lg transition-transform duration-300 group-hover:scale-105"
                 />

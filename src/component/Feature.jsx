@@ -65,7 +65,7 @@ const ProductList = () => {
    
     {
       id: 1,
-      imageUrl: 'src/assets/img/table1.jpg',
+      imageUrl: 'public/image/table1.jpg',
       
       title: 'chair',
       price: 72.6,
@@ -75,7 +75,7 @@ const ProductList = () => {
     },
     {
       id: 2,
-      imageUrl: 'src/assets/img/table1.jpg',
+      imageUrl: 'public/image/table1.jpg',
       title: 'table',
       price: 95.5,
       originalPrice: 140,
@@ -85,7 +85,7 @@ const ProductList = () => {
 
     {
       id: 3,
-      imageUrl: 'src/assets/img/table1.jpg',
+      imageUrl: 'public/image/table1.jpg',
       title: 'table',
       price: 95.5,
       originalPrice: 140,
@@ -95,7 +95,7 @@ const ProductList = () => {
 
     {
       id: 4,
-      imageUrl: 'src/assets/img/Wach1.jpg',
+      imageUrl: 'public/image/Wach1.jpg',
       title: 'watch',
       price: 184,
       originalPrice: 230,
@@ -104,7 +104,7 @@ const ProductList = () => {
     },
     {
       id: 5,
-      imageUrl: 'src/assets/img/Wach1.jpg',
+      imageUrl: 'public/image/Wach1.jpg',
       title: 'table',
       price: 95.5,
       originalPrice: 140,
@@ -113,7 +113,7 @@ const ProductList = () => {
     },
     {
       id: 6,
-      imageUrl: 'src/assets/img/Wach1.jpg',
+      imageUrl: 'public/image/Wach1.jpg',
       title: 'table',
       price: 95.5,
       originalPrice: 140,

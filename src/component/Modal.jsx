@@ -28,7 +28,7 @@ const Modal = () => {
             </button>
             <div className="text-center">
               <img
-                src="src/assets/img/logo.png"
+                src="public/image/logo.png"
                 alt="Offer Banner"
                 className="mx-auto mb-4 w-full"
               />

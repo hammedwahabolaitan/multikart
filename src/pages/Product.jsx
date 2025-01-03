@@ -69,7 +69,7 @@ const ProductList = () => {
   const products = [
     {
       id: 1,
-      imageUrl: 'src/assets/img/8.jpg',
+      imageUrl: 'public/image/8.jpg',
       title: 'Waist Dress',
       price: 184,
       originalPrice: 230,
@@ -78,7 +78,7 @@ const ProductList = () => {
     },
     {
       id: 2,
-      imageUrl: 'src/assets/img/7.jpg',
+      imageUrl: 'public/image/7.jpg',
       title: 'Crop Top',
       price: 72.6,
       originalPrice: 121,
@@ -87,7 +87,7 @@ const ProductList = () => {
     },
     {
       id: 3,
-      imageUrl: 'src/assets/img/13(1).jpg',
+      imageUrl: 'public/image/13(1).jpg',
       title: 'Jacket',
       price: 95.5,
       originalPrice: 140,
@@ -96,7 +96,7 @@ const ProductList = () => {
     },
     {
       id: 4,
-      imageUrl: 'src/assets/img/13.jpg',
+      imageUrl: 'public/image/13.jpg',
       title: 'Jacket',
       price: 95.5,
       originalPrice: 140,
@@ -105,7 +105,7 @@ const ProductList = () => {
     },
     {
       id: 5,
-      imageUrl: 'src/assets/img/3.jpg',
+      imageUrl: 'public/image/3.jpg',
       title: 'Jacket',
       price: 95.5,
       originalPrice: 140,
@@ -114,7 +114,7 @@ const ProductList = () => {
     },
     {
       id: 6,
-      imageUrl: 'src/assets/img/10.jpg',
+      imageUrl: 'public/image/10.jpg',
       title: 'Jacket',
       price: 95.5,
       originalPrice: 140,

@@ -10,14 +10,14 @@ const InstagramSection = () => {
   };
 
   const images = [
-    'src/assets/img/9(1).jpg',
-    '/src/assets/img/1(2).jpg',
-    '/src/assets/img/3(2).jpg',
-    '/src/assets/img/5(2).jpg',
-    '/src/assets/img/7(1).jpg',
-    '/src/assets/img/5(2).jpg',
-    '/src/assets/img/1(2).jpg',
-    // '/src/assets/img/1.jpg',
+    'public/image/9(1).jpg',
+    '/public/image/1(2).jpg',
+    '/public/image/3(2).jpg',
+    '/public/image/5(2).jpg',
+    '/public/image/7(1).jpg',
+    '/public/image/5(2).jpg',
+    '/public/image/1(2).jpg',
+    // '/public/image/1.jpg',
   ];
 
   return (

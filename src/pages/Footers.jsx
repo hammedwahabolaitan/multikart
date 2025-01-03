@@ -42,7 +42,7 @@ export default function Footers() {
               <h4 className="text-lg font-semibold">About</h4>
               <div className="mt-4">
                 <img
-                  src="src/assets/img/logo.png"
+                  src="public/image/logo.png"
                   alt="Multikart"
                   className="w-24"
                 />
@@ -113,11 +113,11 @@ export default function Footers() {
               &copy; 2023-24 ThemeForest powered by <a href=""><span className='text-[#3030e0dc] uppercase'> Wabtech</span></a>
             </p>
             <div className="flex space-x-4 mt-4 md:mt-0">
-              <a href="#"><img src="src/assets/img/visa.png" alt="Visa" className="w-10" /></a>
-              <a href="#"><img src="src/assets/img/mastercard.png" alt="Mastercard" className="w-10" /></a>
-              <a href="#"><img src="src/assets/img/paypal.png" alt="Paypal" className="w-10" /></a>
-              <a href="#"><img src="src/assets/img/american-express.png" alt="American Express" className="w-10" /></a>
-              <a href="#"><img src="src/assets/img/discover.png" alt="Discover" className="w-10" /></a>
+              <a href="#"><img src="public/image/visa.png" alt="Visa" className="w-10" /></a>
+              <a href="#"><img src="public/image/mastercard.png" alt="Mastercard" className="w-10" /></a>
+              <a href="#"><img src="public/image/paypal.png" alt="Paypal" className="w-10" /></a>
+              <a href="#"><img src="public/image/american-express.png" alt="American Express" className="w-10" /></a>
+              <a href="#"><img src="public/image/discover.png" alt="Discover" className="w-10" /></a>
             </div>
           </div>
         </div>

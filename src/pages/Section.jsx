@@ -47,7 +47,7 @@ const ProductList = () => {
   const products = [
     {
       id: 1,
-      imageUrl: 'src/assets/img/8.jpg',
+      imageUrl: 'public/image/8.jpg',
       title: 'Waist Dress',
       price: 184,
       originalPrice: 230,
@@ -56,7 +56,7 @@ const ProductList = () => {
     },
     {
       id: 2,
-      imageUrl: 'src/assets/img/13(1).jpg',
+      imageUrl: 'public/image/13(1).jpg',
       title: 'Crop Top',
       price: 72.6,
       originalPrice: 121,
@@ -65,7 +65,7 @@ const ProductList = () => {
     },
     {
       id: 3,
-      imageUrl: 'src/assets/img/22.jpg',
+      imageUrl: 'public/image/22.jpg',
       title: 'Jacket',
       price: 95.5,
       originalPrice: 140,

@@ -11,14 +11,14 @@ const LogoSection = () => {
   };
 
   const logos = [
-    '/src/assets/img/1.png',
-    '/src/assets/img/2.png',
-    '/src/assets/img/3.png',
-    '/src/assets/img/4.png',
-    '/src/assets/img/5.png',
-    '/src/assets/img/6.png',
-    '/src/assets/img/7.png',
-    '/src/assets/img/8.png',
+    'public/image/1.png',
+    'public/image/2.png',
+    'public/image/3.png',
+    'public/image/4.png',
+    'public/image/5.png',
+    'public/image/6.png',
+    'public/image/7.png',
+    'public/image/8.png',
   ];
 
   return (

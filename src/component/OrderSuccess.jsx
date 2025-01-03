@@ -55,7 +55,7 @@ const OrderSuccess = () => {
                 <div className="flex flex-wrap">
                   <div className="w-1/4 p-2">
                     <img
-                      src="src/assets/img/Wach1.jpg"
+                      src="public/image/Wach1.jpg"
                       alt="Product"
                       className="w-full h-auto object-cover rounded-lg"
                     />
