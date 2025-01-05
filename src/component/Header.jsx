@@ -99,7 +99,7 @@ export default function Header({cartCount} ) {
           <i className="pi pi-bars sidebar-bar" aria-hidden="true" style={{ fontSize: '25px', color: 'back' }} ></i>
         </button>
         <a href="/" className="ml-4">
-          <img src="public/image/logo.png" alt="Logo" className="h-8"/>
+          <img src="/image/logo.png" alt="Logo" className="h-8"/>
         </a>
       </div>
       <nav className="flex space-x-6 uppercase">
