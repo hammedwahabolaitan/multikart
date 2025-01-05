@@ -19,13 +19,13 @@ const Hero = () => {
       title: "Men Fashion",
       subtitle: "Welcome to Fashion",
       href: "/left-sidebar/collection",
-      image: "public/image/1 (1).jpg", // image path
+      image: "/image/1 (1).jpg", // image path
     },
     {
       title: "Women Fashion",
       subtitle: "Welcome to Fashion",
       href: "/left-sidebar/collection",
-      image: "public/image/2 (1).jpg", // image path
+      image: "/image/2 (1).jpg", // image path
     },
   ];
 

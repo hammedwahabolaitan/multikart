@@ -11,7 +11,7 @@ const SingleProduct = ({ addToCart }) => {
     
     id: productId,
     title: 'Belted Dress',
-    Image: "public/image/2(2).jpg",
+    Image: "/image/2(2).jpg",
     price: 111,
     originalPrice: 185,
     colors: ['#4CAF50', '#FF5733', '#DCDCDC'],

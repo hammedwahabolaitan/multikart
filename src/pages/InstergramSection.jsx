@@ -10,14 +10,14 @@ const InstagramSection = () => {
   };
 
   const images = [
-    'public/image/9(1).jpg',
-    '/public/image/1(2).jpg',
-    '/public/image/3(2).jpg',
-    '/public/image/5(2).jpg',
-    '/public/image/7(1).jpg',
-    '/public/image/5(2).jpg',
-    '/public/image/1(2).jpg',
-    // '/public/image/1.jpg',
+    '/image/9(1).jpg',
+    '/image/1(2).jpg',
+    '/image/3(2).jpg',
+    '/image/5(2).jpg',
+    '/image/7(1).jpg',
+    '/image/5(2).jpg',
+    '/image/1(2).jpg',
+    // '/image/1.jpg',
   ];
 
   return (

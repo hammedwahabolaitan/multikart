@@ -95,12 +95,12 @@ export default function BlogSection() {
 
 // Dummy data for blogs
 const recentBlogs = [
-  { imgSrc: 'public/image/11.jpg', date: '25 January 2018', hits: 0 },
-  { imgSrc: 'public/image/11.jpg', date: '26 January 2018', hits: 4 },
-  { imgSrc: 'public/image/11.jpg', date: '29 January 2018', hits: 0 },
-  { imgSrc: 'public/image/11.jpg', date: '29 January 2018', hits: 6},
-  { imgSrc: 'public/image/11.jpg', date: '29 January 2018', hits: 7 },
-  { imgSrc: 'public/image/11.jpg', date: '29 January 2018', hits: 4 },
+  { imgSrc: '/image/11.jpg', date: '25 January 2018', hits: 0 },
+  { imgSrc: '/image/11.jpg', date: '26 January 2018', hits: 4 },
+  { imgSrc: '/image/11.jpg', date: '29 January 2018', hits: 0 },
+  { imgSrc: '/image/11.jpg', date: '29 January 2018', hits: 6},
+  { imgSrc: '/image/11.jpg', date: '29 January 2018', hits: 7 },
+  { imgSrc: '/image/11.jpg', date: '29 January 2018', hits: 4 },
 ];
 
 const popularBlogs = [
@@ -110,7 +110,7 @@ const popularBlogs = [
 ];
 
 const blogs = [
-  { imgSrc: 'public/image/11.jpg', date: '25 January 2018', title: 'Denouncing pleasure and praising pain', author: 'Admin Admin', hits: 5, comments: 10, description: 'Consequences that are extremely painful...' },
-  { imgSrc: 'public/image/11.jpg', date: '26 January 2018', title: 'Denouncing pleasure and praising pain', author: 'Admin Admin', hits: 5, comments: 10, description: 'Consequences that are extremely painful...' },
-  { imgSrc: 'public/image/11.jpg', date: '29 January 2018', title: 'Denouncing pleasure and praising pain', author: 'Admin Admin', hits: 5, comments: 10, description: 'Consequences that are extremely painful...' },
+  { imgSrc: '/image/11.jpg', date: '25 January 2018', title: 'Denouncing pleasure and praising pain', author: 'Admin Admin', hits: 5, comments: 10, description: 'Consequences that are extremely painful...' },
+  { imgSrc: '/image/11.jpg', date: '26 January 2018', title: 'Denouncing pleasure and praising pain', author: 'Admin Admin', hits: 5, comments: 10, description: 'Consequences that are extremely painful...' },
+  { imgSrc: '/image/11.jpg', date: '29 January 2018', title: 'Denouncing pleasure and praising pain', author: 'Admin Admin', hits: 5, comments: 10, description: 'Consequences that are extremely painful...' },
 ];

@@ -40,7 +40,7 @@ const ContactPage = () => {
               <ul className="space-y-6">
                 <li className="flex space-x-4 items-start">
                   <div className="text-blue-500 text-2xl">
-                    <i className="fa fa-phone" aria-hidden="true"></i>
+                    <i className="pi pi-phone" aria-hidden="true"></i>
                   </div>
                   <div>
                     <h6 className="text-lg font-semibold">Contact us</h6>
@@ -50,7 +50,7 @@ const ContactPage = () => {
                 </li>
                 <li className="flex space-x-4 items-start">
                   <div className="text-blue-500 text-2xl">
-                    <i className="fa fa-map-marker" aria-hidden="true"></i>
+                    <i className="pi pi-map-marker" aria-hidden="true"></i>
                   </div>
                   <div>
                     <h6 className="text-lg font-semibold">Address</h6>
@@ -60,7 +60,7 @@ const ContactPage = () => {
                 </li>
                 <li className="flex space-x-4 items-start">
                   <div className="text-blue-500 text-2xl">
-                    <i className="fa fa-envelope" aria-hidden="true"></i>
+                    <i className="pi pi-envelope" aria-hidden="true"></i>
                   </div>
                   <div>
                     <h6 className="text-lg font-semibold">Email</h6>
@@ -70,7 +70,7 @@ const ContactPage = () => {
                 </li>
                 <li className="flex space-x-4 items-start">
                   <div className="text-blue-500 text-2xl">
-                    <i className="fa fa-fax" aria-hidden="true"></i>
+                    <i className="pi pi-fax" aria-hidden="true"></i>
                   </div>
                   <div>
                     <h6 className="text-lg font-semibold">Fax</h6>

@@ -28,7 +28,7 @@ export default function SpecialProduct() {
           <div className="px-4">
             <a href="/blogs/blog_detail" className="block">
               <div className="overflow-hidden rounded-md">
-                <img src="public/image/5(1).jpg" alt="Blog" className="w-full object-cover" />
+                <img src="/image/5(1).jpg" alt="Blog" className="w-full object-cover" />
                 <span className="block"></span>
               </div>
             </a>
@@ -44,7 +44,7 @@ export default function SpecialProduct() {
           <div className="px-4">
             <a href="/blogs/blog_detail" className="block">
               <div className="overflow-hidden rounded-md">
-                <img src="public/image/3(1).jpg" alt="Blog" className="w-full object-cover hover:bg-" />
+                <img src="/image/3(1).jpg" alt="Blog" className="w-full object-cover hover:bg-" />
                 <span className="block"></span>
               </div>
             </a>
@@ -60,7 +60,7 @@ export default function SpecialProduct() {
           <div className="px-4">
             <a href="/blogs/blog_detail" className="block">
               <div className="overflow-hidden rounded-md">
-                <img src="public/image/4(1).jpg" alt="Blog" className="w-full object-cover" />
+                <img src="/image/4(1).jpg" alt="Blog" className="w-full object-cover" />
                 <span className="block"></span>
               </div>
             </a>
