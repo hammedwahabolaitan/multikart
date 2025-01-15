@@ -17,7 +17,7 @@ const InstagramSection = () => {
     '/image/7(1).jpg',
     '/image/5(2).jpg',
     '/image/1(2).jpg',
-    // '/image/1.jpg',
+    
   ];
 
   return (

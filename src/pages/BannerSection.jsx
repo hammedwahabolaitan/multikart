@@ -4,7 +4,7 @@ import React from 'react';
 const BannerSection = () => {
   return (
     <section className=" my-10">
-      <div className="relative bg-cover bg-blend-multiply bg-blue-00 text-center h-[90vh]" style={{ backgroundImage: "url('/image/Section.jpg')" }}>
+      <div className="relative bg-cover bg-blend-multiply bg-blue-00 text-center h-[90vh]" style={{ backgroundImage: "url('image/Section.jpg')" }}>
         <div className="container mx-auto">
           <div className="flex justify-start">
             <div>
